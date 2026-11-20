@@ -1,6 +1,6 @@
 # 🎬 PickMyFlick — VAE-Based Personalized Movie Recommendation System
 
-An end-to-end machine learning web application for personalized movie recommendations, implementing **Multinomial Variational Autoencoders (Mult-VAE)** for collaborative filtering on **MovieLens 1M**, benchmarked against **Matrix Factorization** and a **Popularity Baseline**.
+An end-to-end machine learning web application for personalized movie recommendations, implementing **Multinomial Variational Autoencoders (Mult-VAE)** for collaborative filtering on **MovieLens 1M**, benchmarked against **Matrix Factorization** and a **Popularity Baseline**
 
 ---
 
