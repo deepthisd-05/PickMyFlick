@@ -1,0 +1,18 @@
+{
+  "dataset_name": "MovieLens 1M",
+  "num_total_movies": 3883,
+  "num_rated_items": 3706,
+  "num_users": 6040,
+  "total_ratings": 1000209,
+  "duplicates_removed": 0,
+  "invalid_rows_skipped": 0,
+  "matched_tmdb_ids": 2899,
+  "split_protocol": "User-level temporal split (80% earliest train / 10% validation / 10% latest held-out test)",
+  "relevance_threshold": 4.0,
+  "train_interactions": 800309,
+  "val_interactions": 99950,
+  "test_interactions": 99950,
+  "positive_train": 470789,
+  "positive_val": 53166,
+  "positive_test": 51326
+}

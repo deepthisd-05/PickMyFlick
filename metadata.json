@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix CineVAE — Personalized Movie Recommendation System",
+  "description": "Multinomial Variational Autoencoder (Mult-VAE) movie recommendation platform trained on MovieLens 1M, benchmarked against Matrix Factorization and Popularity baselines with TMDB metadata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
